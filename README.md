@@ -4,7 +4,7 @@
 🔭 Senior Supplier Quality Engineer | ASQ CSSGB </br>
 🏫 B.S. Material Science @ San Jose State University </br>
 🌱 Coding Adventures - B.S. Computer Science Student @ WGU </br>
-⚡ Fun fact: Former Competitive Ballroom Dancer for 8 years! </br>
+⚡ Fun fact: I was a Competitive Ballroom Dancer for 8 years! #Standard </br>
 
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
